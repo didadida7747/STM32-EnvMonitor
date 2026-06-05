@@ -1,0 +1,6 @@
+#include "bsp_uart.h"
+
+void BSP_UART_Init(void)
+{
+    /* ½×¶Î¶þÌî³ä */
+}

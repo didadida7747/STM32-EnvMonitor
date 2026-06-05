@@ -1,0 +1,6 @@
+#include "bsp_exti.h"
+
+void BSP_EXTI_Init(void)
+{
+    /* ½×¶Î¶þÌî³ä */
+}

@@ -1,0 +1,6 @@
+#include "bsp_oled.h"
+
+void BSP_OLED_Init(void)
+{
+    /* ½×¶Î¶þÌî³ä */
+}

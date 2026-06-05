@@ -1,0 +1,6 @@
+#include "bsp_adc.h"
+
+void BSP_ADC_Init(void)
+{
+    /* ½×¶Î¶þÌî³ä */
+}

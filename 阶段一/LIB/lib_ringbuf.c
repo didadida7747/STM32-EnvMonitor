@@ -1,0 +1,6 @@
+#include "lib_ringbuf.h"
+
+void Lib_RingBuf_Init(void)
+{
+    /* ½×¶Î¶þÌî³ä */
+}

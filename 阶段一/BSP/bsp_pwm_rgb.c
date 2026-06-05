@@ -1,0 +1,6 @@
+#include "bsp_pwm_rgb.h"
+
+void BSP_PWM_RGB_Init(void)
+{
+    /* ½×¶Î¶þÌî³ä */
+}
